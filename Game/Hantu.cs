@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace Game
 {
-    public class Cerita
+    public class Hantu
     {
-        public string Pemain { get; set; }
+        public int hantu { get; set;}
     }
 }
